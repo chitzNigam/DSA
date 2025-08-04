@@ -15,3 +15,9 @@ struct Student {
     char name[50];
     float marks;
 };
+```
+
+## 📝 Notes
+- Memory is allocated for all members.
+- Access members using the dot (.) operator.
+- You can create arrays of structs

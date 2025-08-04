@@ -17,3 +17,14 @@ queue<int> q;
 q.push(10);
 q.push(20);
 q.pop(); // Removes 10
+```
+
+## 📚 Use Cases
+- CPU/IO scheduling
+- Print queue
+- BFS (Breadth-First Search)
+- Order processing systems
+
+## 📝 Notes
+- Implement using arrays or linked lists.
+- Circular queues optimize memory.

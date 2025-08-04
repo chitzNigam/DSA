@@ -29,3 +29,9 @@ public:
         cout << "ID: " << id << ", Marks: " << marks << endl;
     }
 };
+```
+
+## 📝 Notes
+- Access modifiers: `private`, `public`, `protected`.
+- In C++, structs are similar to classes, but members are `public` by default.
+- In Python and Java, everything is a class.

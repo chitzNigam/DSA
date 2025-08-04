@@ -15,3 +15,13 @@ struct TrieNode {
     TrieNode* children[26];
     bool isEndOfWord;
 };
+```
+
+## 📚 Use Cases
+- Auto-complete
+- Spell checking
+- IP routing
+
+## 📝 Notes
+- Space intensive but fast prefix search (O(m) time).
+- Variants: Compressed Trie, Suffix Trie.

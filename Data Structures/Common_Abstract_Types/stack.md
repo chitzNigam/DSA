@@ -16,3 +16,14 @@ stack<int> s;
 s.push(10);
 s.push(20);
 s.pop(); // Removes 20
+```
+
+## 📚 Use Cases
+- Function call stack
+- Undo/Redo functionality
+- Balanced parentheses
+- DFS (Depth-First Search)
+
+## 📝 Notes
+- Can be implemented using arrays or linked lists.
+- Often provided as a built-in data structure in high-level languages.

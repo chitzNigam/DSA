@@ -15,3 +15,9 @@ union Data {
     float f;
     char str[20];
 };
+```
+
+## 📝 Notes
+- The size of a union is the size of its largest member.
+- You can use only one member at a time.
+- Useful when dealing with hardware, device drivers, etc.
